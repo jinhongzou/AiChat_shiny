@@ -21,7 +21,7 @@ This is an AI chat application built with Python Shiny that integrates with Open
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd task-master
+   cd AiChat_shiny
    ```
 
 2. Install the required packages:
